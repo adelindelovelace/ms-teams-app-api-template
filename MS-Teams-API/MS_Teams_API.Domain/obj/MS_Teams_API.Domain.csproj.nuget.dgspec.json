@@ -1,0 +1,68 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\v-adcort\\Source\\Repos\\arcortez\\ms-teams-react-app\\MS-Teams-API\\MS-Teams-API\\MS_Teams_API.Domain\\MS_Teams_API.Domain.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\v-adcort\\Source\\Repos\\arcortez\\ms-teams-react-app\\MS-Teams-API\\MS-Teams-API\\MS_Teams_API.Domain\\MS_Teams_API.Domain.csproj": {
+      "version": "1.1.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\v-adcort\\Source\\Repos\\arcortez\\ms-teams-react-app\\MS-Teams-API\\MS-Teams-API\\MS_Teams_API.Domain\\MS_Teams_API.Domain.csproj",
+        "projectName": "MS_Teams_API.Domain",
+        "projectPath": "C:\\Users\\v-adcort\\Source\\Repos\\arcortez\\ms-teams-react-app\\MS-Teams-API\\MS-Teams-API\\MS_Teams_API.Domain\\MS_Teams_API.Domain.csproj",
+        "packagesPath": "C:\\Users\\v-adcort\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\v-adcort\\Source\\Repos\\arcortez\\ms-teams-react-app\\MS-Teams-API\\MS-Teams-API\\MS_Teams_API.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\v-adcort\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://microsoftit.pkgs.visualstudio.com/OneITVSO/_packaging/FUN-FS-ServiceNow%40Local/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.204\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
